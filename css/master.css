@@ -1,0 +1,60 @@
+
+html {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+ }
+
+ .container {
+    width: 100vw;
+    height: 100vh;
+ }
+ .main-banner {
+    width: 100%;
+    height: 10%;
+    background: center;
+    background-image: url(../img/pattern.png);
+    background-color: lightskyblue;
+ }
+
+.logo-main-banner {
+     width: 10%;
+     margin-top: 40px;
+     margin-left: 200px;
+     
+ }
+
+main {
+     margin-left: 200px;
+     width: 70%;
+ }
+
+.text-tim-photo {
+     font-size: 12px;
+ }
+
+.text-colored {
+     background-color: yellow;
+ }
+
+ul {
+     padding-left:  15px;
+ }
+
+thead {
+     background-color: dodgerblue;
+ }
+
+table {
+     border-collapse: collapse;
+     width: 100%;
+     text-align: center;
+ }
+
+.tr1, .tr3 {
+     background-color: rgb(140, 193, 245);
+ }
+
+h4 {
+    color: gray;
+
+}
